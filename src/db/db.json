@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "7fcfd623-059c-4d76-93a5-f7ee39244444",
+    "name": "Erma Hegmann DVM",
+    "phone": "918.789.4661 x9725",
+    "email": "Hellen_Schaefer@yahoo.com",
+    "job": "Future Functionality Associate"
+  },
+  {
+    "id": "06dd3dcb-c5d9-4807-9547-5170d2d81b5c",
+    "name": "Alyssa Ebert",
+    "phone": "1-513-382-9403",
+    "email": "Robbie.Emard59@yahoo.com",
+    "job": "Legacy Branding Representative"
+  },
+  {
+    "id": "a7663f11-d436-4227-a4c4-37a18f005c30",
+    "name": "Alfonso Kerluke",
+    "phone": "542.792.3850 x0465",
+    "email": "Bobby_Kertzmann0@gmail.com",
+    "job": "Direct Assurance Assistant"
+  },
+  {
+    "id": "c5da6e0e-5f93-4d41-8b11-a28bfaa477fe",
+    "name": "Mrs. June Weber",
+    "phone": "580-260-6990 x601",
+    "email": "Lavada41@yahoo.com",
+    "job": "Forward Brand Planner"
+  },
+  {
+    "id": "e177428e-27d6-4dbf-851e-78fc011d259f",
+    "name": "Harry Pollich",
+    "phone": "(327) 280-8823 x082",
+    "email": "Wendell_DuBuque@yahoo.com",
+    "job": "Central Metrics Orchestrator"
+  }
+]
